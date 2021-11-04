@@ -1,0 +1,27 @@
+[ {
+    "codigo": 1,
+    "titulo": "'Filme Um'",
+    "duracao": 2,
+    "atores":  ["Allysson", "Erika", "Arthur", "Esther"],
+    "anoLancamento": 2016,
+    "emCartas": true
+},
+{
+    "codigo": 2,
+    "titulo": "Filme 3",
+    "duracao": 3,
+    "atores":["Arthur", "GaBriel","Ziane"],
+    "anoLancamento": 2020,
+    "emCartas": false
+
+},
+{
+    "codigo": 3,
+    "titulo": "Filme 4",
+    "duracao": 3,
+    "atores":["Estherr", "Ziane"],
+    "anoLancamento": 2021,
+    "emCartas": true
+
+}
+]
