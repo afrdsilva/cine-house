@@ -23,5 +23,14 @@
     "anoLancamento": 2021,
     "emCartas": true
 
+},
+{
+    "codigo": 4,
+    "titulo": "Filme 2",
+    "duracao": 2,
+    "atores":["Allysson", "Arthur"],
+    "anoLancamento": 2021,
+    "emCartas": true
+
 }
 ]
