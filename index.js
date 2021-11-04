@@ -12,7 +12,7 @@ function adicionarFilme(titulo,duracao,atores,anoLancamento,emCartas){
         emCartas
     }
     const novoTamanhoDoCatalogo = catalogo.push(novoFilme)
-    console.log('Filme adicionado  com sucesso, catalogo agora tem' +novoTamanhoDoCatalogo +'Filmes')
+    console.log('Filme adicionado  com SUCESSO!, catalogo agora tem' +novoTamanhoDoCatalogo +'Filmes')
 }
 
 function verificaDuracao(filme,){
